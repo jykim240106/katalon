@@ -3,5 +3,5 @@
 
 
 
-[Katalon_Basic 다운로드]([https://github.com/jykim240106/katalon/commit/63e3ae8d05e3f6c5411273c9684cdcb8bd750818#diff-f615dd485978468c2bee086468780285839259d7d70306427dc1bffda147408c](https://github.com/jykim240106/katalon/commit/63e3ae8d05e3f6c5411273c9684cdcb8bd750818#diff-6dd76e831c8c84cc50e7ba0d1c6c8cce5e3fe2fd708d51f1a63b951672ee7401)https://github.com/jykim240106/katalon/commit/63e3ae8d05e3f6c5411273c9684cdcb8bd750818#diff-6dd76e831c8c84cc50e7ba0d1c6c8cce5e3fe2fd708d51f1a63b951672ee7401)
+[Katalon_Basic 다운로드](https://github.com/jykim240106/katalon/commit/63e3ae8d05e3f6c5411273c9684cdcb8bd750818#diff-6dd76e831c8c84cc50e7ba0d1c6c8cce5e3fe2fd708d51f1a63b951672ee7401)
 
